@@ -73,7 +73,6 @@
 ||wl.jd.com^
 ||wq.jd.com^
 ||ccc-x.jd.com^
-||pro.m.jd.com^
 ||img-x.jd.com^
 ||img-x.jd.com^
 ||xlog.jd.com^
