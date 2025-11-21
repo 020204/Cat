@@ -2,7 +2,7 @@
 ! Title: DNS拒绝清单-Clone
 ! Homepage: https://github.com/020204/Cat?tab=readme-ov-file
 ! by: TTDNS-Clone
-!Total lines: 643
+!Total lines: 649
 #=================================分割线=====================================
 ！白名单/放行条
 #番茄免费小说
