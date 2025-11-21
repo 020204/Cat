@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: DNS拒绝清单-Clone
+! Update time: 2025-11-21 21:58:37
 ! Homepage: https://github.com/020204/Cat?tab=readme-ov-file
 ! by: TTDNS-Clone
 !Total lines: 649
