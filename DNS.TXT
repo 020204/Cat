@@ -23,7 +23,7 @@
 @@||ipassport.ele.me^$important
 @@||fin-ingress-ele.aliyuncs.com^$important
 #针对抖音App的放行规则
-#@@||dig.bdurl.net^$important
+@@||dig.bdurl.net^$important
 #-------------------------分割线---------------------------
 #-------------------------分割线---------------------------
 #-------------------------分割线---------------------------
@@ -646,6 +646,11 @@
 ||somamobi.com^$important
 ||ndcpp.com^$important
 #针对中国电信的广告拦截规则
+||api.map.baidu.com^$important
+||xbk.189.cn^$important
+||reportappgo.189.cn^$important
+||w.189.cn^$important
+||appgo*pro.189.cn^$important
 ||appupdate.189.cn^$important
 ||appupdates.189.cn^$important
 ||bkappad.189.cn^$important
